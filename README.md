@@ -17,7 +17,6 @@
 
 <br/>
 
-
 <h2>
 <details>
 <summary>Screenshots</summary>
@@ -31,6 +30,4 @@
 <br/>
 
 <h2>Feedback</h2>
-If you have any feedback, please reach out to me at <a href="https://www.sahiljit.dev">sahiljit.dev</a>
-
-
+If you have any feedback, please reach out to me at <a href="https://sahiljit.vercel.app/">sahiljit.vercel.app</a>
